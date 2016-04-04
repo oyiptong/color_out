@@ -1,9 +1,5 @@
 extern crate clap;
 extern crate image;
-use std::io;
-use std::io::Write;
-use std::io::BufWriter;
-use std::iter;
 use std::fs::File;
 use clap::{
     Arg,
