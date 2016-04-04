@@ -1,0 +1,8 @@
+[package]
+name = "color_out_ppm"
+version = "0.1.0"
+authors = ["Olivier Yiptong <olivier@olivieryiptong.com>"]
+
+[dependencies]
+clap = "2"
+image = "*"
